@@ -1,0 +1,1 @@
+I have been seletced for the Graduate rotational Internship Program 2024 by The Sparks Foundation as Data Science and Bussines Analytics intern. This is repo lwhere i will share my tasks completed under the internship
